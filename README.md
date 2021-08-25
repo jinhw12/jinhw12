@@ -28,7 +28,7 @@
    
    ## Github Stats
    
-   ![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhw12&show_icons=true&count_private=true&custom_title=Hyewon's&nbsp;Github&nbsp;Stats&theme=dracula&title_color=D773F5&icon_color=81E398)
+   ![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhw12&show_icons=true&count_private=true&custom_title=Hyewon's&nbsp;Github&nbsp;Stats&theme=dracula&title_color=FA8ED1&icon_color=77E69C&bg_color=2B3840)
    <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhw12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
